@@ -1,3 +1,7 @@
+
+
+[tripplannerUI](triplanner_UI)
+
 🧳 AI Trip Planner
 
 An AI-powered trip planning application that helps users generate personalized travel itineraries based on preferences such as destination, duration, and interests. The app uses multiple AI agents to plan trips efficiently and presents results through a simple web interface.
