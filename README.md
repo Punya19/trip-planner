@@ -1,7 +1,5 @@
- [AI Trip Planner](screencapture-localhost-8504-2026-01-19-01_14_06.png)
 
-
-🧳 AI Trip Planner
+🧳 [AI Trip Planner](screencapture-localhost-8504-2026-01-19-01_14_06.png)
 
 An AI-powered trip planning application that helps users generate personalized travel itineraries based on preferences such as destination, duration, and interests. The app uses multiple AI agents to plan trips efficiently and presents results through a simple web interface.
 
