@@ -1,3 +1,5 @@
+ [AI Trip Planner](screencapture-localhost-8504-2026-01-19-01_14_06.png)
+
 
 🧳 AI Trip Planner
 
@@ -68,3 +70,5 @@ Hotel and transport recommendations
 Map-based visualization
 
 Deployment to cloud platforms
+
+
